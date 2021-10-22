@@ -28,7 +28,7 @@ int main()
         cout << " * \n* * \n*** \n"; break;
 
     default:
-        cout << "Неправильний вибір \ n";
+        cout << "Hello world \ n";
 
     }
 
